@@ -1,0 +1,22 @@
+{
+  "name": "assessment",
+  "version": "1.0.0",
+  "description": "testing demo",
+  "main": "list.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kogsio/assessment.git"
+  },
+  "author": "abel@mit.edu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kogsio/assessment/issues"
+  },
+  "homepage": "https://github.com/kogsio/assessment#readme",
+  "dependencies": {
+    "jest": "^26.0.1"
+  }
+}
