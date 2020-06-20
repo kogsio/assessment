@@ -1,7 +1,7 @@
 {
   "name": "assessment",
   "version": "1.0.0",
-  "description": "testing demo",
+  "description": "testing explore",
   "main": "list.js",
   "scripts": {
     "test": "jest"
