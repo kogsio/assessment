@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/kogsio/assessment#readme",
   "dependencies": {
+    "course-utilities": "^1.0.0",
     "jest": "^26.0.1"
   }
 }

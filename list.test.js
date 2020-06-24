@@ -1,6 +1,6 @@
-var load  = require('./load');
-var users = load('./users.js', 'users');
-var join  = load('./list.js', 'join');
+var utils  = require('course-utilities');
+var users = utils.load('./users.js', 'users');
+var join  = utils.load('./list.js', 'join');
 console.log(users);
 
 test('outputs the correct string', () => {
